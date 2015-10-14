@@ -22,7 +22,7 @@ program finds the parameters that best describe the anisotropy of these images.
 One example application is to provide quantitative estimates of deformation in
 geologic samples. The figure below gives one example from the paper. 
 
-![Example 92810-3](http://url/to/img.png)
+![Example 92810-3](https://github.com/cthissen/acf2strain/blob/master/Example.pdf)
 
 
 Requirements
