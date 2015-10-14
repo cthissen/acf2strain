@@ -78,7 +78,7 @@ non-linear fitting routine again.
 The Latest Version
 ------------------ 
 Details of the latest version can be found on the github project page under 
-  server project page under https://github.com/cthissen/Drex-MATLAB
+  server project page under https://github.com/cthissen/acf2strain
   
 Contributors
 ------------------ 
