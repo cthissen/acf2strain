@@ -14,7 +14,7 @@ leave a comment under the issues tab at github.com/cthissen/acf2strain
 Christopher J. Thissen, Yale University 
 Mark T. Brandon, Yale University
 
-
+ 
 Motivation
 ------------------ 
 Photomicrographs and X-ray tomography provide image data of fabrics. This 
