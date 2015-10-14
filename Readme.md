@@ -82,7 +82,7 @@ Details of the latest version can be found on the github project page under
   
 Contributors
 ------------------ 
-Christopher Thissen, Yale University. christopher.thissen@yale.edu
+Christopher Thissen, Yale University. christopher.thissen@yale.edu  
 Mark Brandon, Yale University. mark.brandon@yale.edu
 
 Feedback
