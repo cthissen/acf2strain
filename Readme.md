@@ -20,7 +20,9 @@ Motivation
 Photomicrographs and X-ray tomography provide image data of fabrics. This 
 program finds the parameters that best describe the anisotropy of these images. 
 One example application is to provide quantitative estimates of deformation in
-geologic samples. The figure below gives one example from the paper. 
+geologic samples. The figure below gives one example from the paper, where the 
+anisotropy parameters are the maximum, intermediate, and minimum stretch directions, 
+X, Y and Z, and their magnitudes, Sx, Sy and Sz.
 
 ![Example 92810-3](https://github.com/cthissen/acf2strain/blob/master/Example.png)
 
