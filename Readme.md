@@ -11,8 +11,8 @@ Structural Geology.
 For comments, questions, or suggestions, please email cthissen@gmail.com or 
 leave a comment under the issues tab at github.com/cthissen/acf2strain
 
-|Christopher J. Thissen, Yale University 
-|Mark T. Brandon, Yale University
+Christopher J. Thissen, Yale University  
+Mark T. Brandon, Yale University  
 
  
 Motivation
