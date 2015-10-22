@@ -31,19 +31,19 @@ Requirements
 ------------------ 
 acf2strain requires Matlab 2014 or later. 
 
-This program requires the following toolboxes and additional codes: 
-1. Curve Fitting Toolbox. 
-2. Image Processing Toolbox. 
-3. splinefit.m is included with the code, and is also available online at:
-   http://www.mathworks.com/matlabcentral/fileexchange/13812-splinefit
-4. sort_nat is included with the code, and is also available online at:
+This program requires the following toolboxes and additional codes:   
+1. Curve Fitting Toolbox.  
+2. Image Processing Toolbox.   
+3. splinefit.m is included with the code, and is also available online at:  
+   http://www.mathworks.com/matlabcentral/fileexchange/13812-splinefit  
+4. sort_nat is included with the code, and is also available online at:  
    http://www.mathworks.com/matlabcentral/fileexchange/10959-sort-nat--natural-
-    order-sort
-5. export_fig is a useful suite of programs for saving publication-quality 
-   figures, and is included with the code. It is also available online at: 
-   http://www.mathworks.com/matlabcentral/fileexchange/23629-export-fig
-6. coolwarm is included with the code. 
-7. cmapscale is included with the code.
+    order-sort  
+5. export_fig is a useful suite of programs for saving publication-quality  
+   figures, and is included with the code. It is also available online at:  
+   http://www.mathworks.com/matlabcentral/fileexchange/23629-export-fig  
+6. coolwarm is included with the code.   
+7. cmapscale is included with the code.  
 
 This program can be RAM intensive due to the need to store many
 arrays of equivalent size to the three-dimensional tomogram. I have found that
